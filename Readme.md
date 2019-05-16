@@ -12,3 +12,8 @@ sentiment analysys of twitter
        6) Trending posts
        7) Follow similar Stars
        8) Which posts are similar?
+consumer_key = '---'
+consumer_secret = '---'
+
+access_token = '---'
+access_token_secret = '---'
